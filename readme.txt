@@ -7,3 +7,4 @@ add merge
 dev not complete
 Git is a free software ...
 rebase
+use SourceTree
